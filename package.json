@@ -1,0 +1,19 @@
+{
+  "name": "graphql_neo4j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GreedHub/GraphQL_Neo4J.git"
+  },
+  "author": "gravityl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreedHub/GraphQL_Neo4J/issues"
+  },
+  "homepage": "https://github.com/GreedHub/GraphQL_Neo4J#readme"
+}
