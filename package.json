@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/GreedHub/GraphQL_Neo4J/issues"
   },
-  "homepage": "https://github.com/GreedHub/GraphQL_Neo4J#readme"
+  "homepage": "https://github.com/GreedHub/GraphQL_Neo4J#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0"
+  }
 }
