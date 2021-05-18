@@ -17,11 +17,15 @@
   },
   "homepage": "https://github.com/GreedHub/GraphQL_Neo4J#readme",
   "dependencies": {
+    "apollo-server-express": "^2.24.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
+    "graphql": "^15.5.0",
     "helmet": "^4.6.0",
+    "neo4j-driver": "^4.2.3",
+    "neo4j-graphql-js": "^2.19.2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   },
