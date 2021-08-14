@@ -15,7 +15,7 @@ const { PORT } = process.env;
 let app = Express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
-app.use(helmet());
+
 
 
 const server = new ApolloServer({schema:CourseSchema,context: { driver:Neo4jDriver }});
